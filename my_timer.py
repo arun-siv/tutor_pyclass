@@ -1,7 +1,5 @@
 import time
 
-
-
 from functools import  wraps
 def my_timer(func):
 
